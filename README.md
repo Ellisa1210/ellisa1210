@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem-vindos ao meu perfil! 👋
 
-<!--
-**Ellisa1210/ellisa1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Elisabete Alves**
 
-Here are some ideas to get you started:
+- Sou formada em Letras e Computação
+- Atualmente sou técnica pedagógica da Secretaria de Estado da Educação do Paraná - SEED
+- Trabalho com formação e orientação dos professores dos componentes curriculares:
+- Pensamento Computacional
+- Programação I
+- Programa Edutech (Games e programação)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para entrar em contato comigo:
+📫 elisabete_alves12@escola.pr.gov.br
+
+@ellisa.alves
+
+
